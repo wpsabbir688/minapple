@@ -1,6 +1,6 @@
 // db.php
 <?php
-$host = 'localhost';
+$host = 'https://wpsabbir688.github.io/minapple/';
 $dbname = 'plutonbi_ptb';  
 $username = 'root';  
 $password = '';  
